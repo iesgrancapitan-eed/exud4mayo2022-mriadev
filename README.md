@@ -1,3 +1,4 @@
+## Autora: Maria Cervilla Alcalde
 # Examen UD4: Optimización y documentación. Mayo 2022
 1.  Realiza un clone del repositorio. Las instrucciones están en este README, así como los códigos java (debidamente empaquetados) para trabajar desde Eclipse.  
    
@@ -26,6 +27,7 @@
 
 12. Extrae una superclase "Mascota" a partir de la clase "Perro". Incluye todo lo relacionado con el nombre de la mascota.
 13. Añade el diálogo de la refactorización con todo debidamente marcado
+![img](img/1.png)
 
 
 
