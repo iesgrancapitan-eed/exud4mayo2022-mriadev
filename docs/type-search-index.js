@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mca.examen.OptimizacionYDocumentacion","l":"EdadErroneaException"},{"p":"com.mca.examen.OptimizacionYDocumentacion","l":"Mascota"},{"p":"com.mca.examen.OptimizacionYDocumentacion","l":"Perro"}];updateSearchResults();
