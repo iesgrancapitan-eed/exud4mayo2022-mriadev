@@ -60,4 +60,6 @@
 
 ## BitBucket
 
-24. Crea en tu servidor Bitbucket una copia del repositorio actual. Añade aquí la url para que al menos yo pueda verla (mlmagarin@iesgrancapitan.org). El mismo repositorio ha de estar en ambos servidores 
+24. Crea en tu servidor Bitbucket una copia del repositorio actual. Añade aquí la [url](https://bitbucket.org/mriadev/examenmayorefactorizacionydocumentacion/src/main/) para que al menos yo pueda verla (mlmagarin@iesgrancapitan.org). El mismo repositorio ha de estar en ambos servidores 
+
+
